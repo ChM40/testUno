@@ -1,0 +1,6 @@
+obj/uno-bootstrap.d.ts
+obj/uno-bootstrap.js
+Assets/SplashScreen.png
+Uno.Fonts.Fluent/Fonts/uno-fluentui-assets.ttf
+TestUno.Wasm.staticwebassets.runtime.json
+TestUno.Wasm.exe

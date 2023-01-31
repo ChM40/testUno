@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno.Wasm\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno.Base\App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

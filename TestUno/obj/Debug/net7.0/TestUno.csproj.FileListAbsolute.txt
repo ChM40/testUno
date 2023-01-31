@@ -1,0 +1,12 @@
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\bin\Debug\net7.0\TestUno.deps.json
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\bin\Debug\net7.0\TestUno.dll
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\bin\Debug\net7.0\TestUno.pdb
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.csproj.AssemblyReference.cache
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.AssemblyInfoInputs.cache
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.AssemblyInfo.cs
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.csproj.CoreCompileInputs.cache
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.dll
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\refint\TestUno.dll
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\TestUno.pdb
+C:\_Dev\_git\ChM40\TestUno\TestUno\TestUno\obj\Debug\net7.0\ref\TestUno.dll
